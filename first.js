@@ -1,7 +1,7 @@
 let a =prompt("give an input ");
 
-if(a%5 === 0){
-    console.log("aita 5 dia vag jay ");
+if(a%3 === 0){
+    console.log("aita 3 dia vag jay ");
 }
 else {
      console.log("jay na ");
