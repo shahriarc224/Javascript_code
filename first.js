@@ -1,8 +1,3 @@
-let a =prompt("give an input ");
+const square = x => x * x;
 
-if(a%3 === 0){
-    console.log("aita 3 dia vag jay ");
-}
-else {
-     console.log("jay na ");
-}
+console.log(square(4)); // 16
