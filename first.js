@@ -1,4 +1,3 @@
-const square = x => x * x;
+const greet = () => "Hello";
 
-
-console.log(square(4)); 
+console.log(greet()); // Hello
