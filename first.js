@@ -1,3 +1,3 @@
 const greet = () => "Hello";
 
-console.log(greet()); // Hello
+console.log(greet()); 
