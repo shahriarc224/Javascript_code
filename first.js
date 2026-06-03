@@ -1,5 +1,8 @@
-let a =[2,45,5,7];
+let a =prompt("give an input ");
 
-a.forEach ((num) =>{
-    console.log(num*num);
-})
+if(a%3 === 0){
+    console.log("aita 3 dia vag jay ");
+}
+else {
+     console.log("jay na ");
+}
