@@ -4,6 +4,8 @@ const hello ={
     id:7656,
 
     sam :function(){
+
+        
        consloge.log("id",id);
     }
 
