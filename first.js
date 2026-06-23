@@ -6,8 +6,6 @@ const hello ={
     sam :function(){
 
         
-
-        
        consloge.log("id",id);
     }
 
